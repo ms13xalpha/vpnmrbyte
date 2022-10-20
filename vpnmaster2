@@ -2,6 +2,7 @@
 "Ads":"true",
 "qurekha":false,
 "qurekhaLink":"",
+"backAds":true,
 "ads_native_type":"banner",
 "ad_one_by_one_ids":"false",
 "hostid":"https://d1ex46a0eaqlz9.cloudfront.net",
